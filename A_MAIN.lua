@@ -4,7 +4,7 @@ local bit32 = false
 local melon = {}
 if gg.getTargetInfo().x64 then
   mainText = "[BETA x64] ☆Premium Script☆"
-  melon = gg.makeRequest("https://raw.githubusercontent.com/SimpleCodeStudio/GG-SimCity-BuildIt-Trainer/refs/heads/main/64bit-Pointers%26Ofsets.lua")
+  melon = gg.makeRequest("https://raw.githubusercontent.com/n400m0v/hahaha/df3e26188fa22764ab4b6c21acf05eb9d69677e8/32bit-Pointers%26Ofsets.lua")
   else
   bit32 = true
   mainText = "[BETA x32] ☆Premium Script☆"
